@@ -63,13 +63,13 @@ Analyzing patient data to predict readmission rates...
 
 ## 📊 Sample Visualizations
 
-![alt text](../credit-risk-model-template/images/01_target_distribution.png)
+![alt text](../images/01_target_distribution.png)
 
-![alt text](../credit-risk-model-template/images/04_correlation_with_target.png)
+![alt text](../images/04_correlation_with_target.png)
 
-![alt text](../credit-risk-model-template/images/02_numerical_distributions.png)
+![alt text](../images/02_numerical_distributions.png)
 
-[text](../credit-risk-model-template/images/03_default_by_grade_interactive.html)
+[text](../images/03_default_by_grade_interactive.html)
 
 ---
 
