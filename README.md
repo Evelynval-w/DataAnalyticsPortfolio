@@ -42,6 +42,32 @@ Google Colab
 
 ## Projects
 
+```
+credit-risk-model/
+├── data/
+│   ├── raw/                    # Original Lending Club data
+│   └── processed/              # Cleaned and featured data
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_eda.ipynb
+│   ├── 03_feature_engineering.ipynb
+│   ├── 04_modeling.ipynb
+│   └── 05_business_metrics.ipynb
+├── models/
+│   └── xgboost_model.pkl       # Trained model
+├── images/
+│   ├── correlation_heatmap.png
+│   ├── default_by_grade.png
+│   └── roc_curve.png
+├── README.md
+├── requirements.txt
+├── PROJECT_SUMMARY.md
+└── EXECUTION_GUIDE.md
+```
+
+
+
+
 ### 1. [Credit Risk Assessment Model](./credit-risk-model/)
 **Predicting loan defaults using Lending Club data**
 
