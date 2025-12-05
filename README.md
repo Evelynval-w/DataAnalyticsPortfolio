@@ -68,7 +68,7 @@ credit-risk-model/
 
 
 
-### 1. [Credit Risk Assessment Model](./credit-risk-model/)
+### 1. Credit Risk Assessment Model
 **Predicting loan defaults using Lending Club data**
 
 Built a classification model to predict which borrowers are likely to default on their loans. This helps financial institutions make better lending decisions and reduce portfolio risk.
@@ -78,7 +78,7 @@ Built a classification model to predict which borrowers are likely to default on
 - **Key Metrics**: ROC-AUC, Expected Loss calculation
 - **Tools**: Python, pandas, scikit-learn, Plotly
 
-📈 [View Project](./credit-risk-model/) | 📓 [Notebooks](./credit-risk-model/notebooks/)
+📈 [View Project Details](./PROJECT_SUMMARY.md) | 📓 [Notebooks](./notebooks/) | 📋 [Execution Guide](./EXECUTION_GUIDE.md)
 
 ---
 
@@ -87,15 +87,19 @@ Analyzing patient data to predict readmission rates...
 
 ---
 
-## 📊 Sample Visualizations
 
-![alt text](../images/01_target_distribution.png)
+##  Sample Visualizations
 
-![alt text](../images/04_correlation_with_target.png)
+![Target Distribution](./images/01_target_distribution.png)
 
-![alt text](../images/02_numerical_distributions.png)
+![Correlation with Target](./images/04_correlation_with_target.png)
 
-[text](../images/03_default_by_grade_interactive.html)
+![Numerical Distributions](./images/02_numerical_distributions.png)
+
+![Default by Grade](./images/03_default_by_grade.png)
+
+**Interactive Charts:**
+- [Default by Grade (Interactive)](./images/03_default_by_grade_interactive.html)
 
 ---
 
